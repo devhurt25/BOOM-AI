@@ -1,2 +1,1 @@
-# BOOM-AI
-Our company
+
